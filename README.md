@@ -10,4 +10,5 @@ ______________________________________
 6. pip install qrtools
 7. pip install numpy
 ___________________________________________
-
+or 
+pip install -r requirements.txt
