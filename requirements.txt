@@ -1,0 +1,7 @@
+zbar
+pyzbar
+opencv-python
+zbar
+QR
+qrtools
+numpy
